@@ -1,0 +1,89 @@
+{
+  "name": "花园多惠",
+  "version": "1.0.0",
+  "format": "ChatGPT Pets sprite sheet v2",
+  "file": "spritesheet.png",
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "columns": 8,
+  "rows": [
+    {
+      "row": 0,
+      "state": "idle",
+      "frames": 6
+    },
+    {
+      "row": 1,
+      "state": "running-right",
+      "frames": 8
+    },
+    {
+      "row": 2,
+      "state": "running-left",
+      "frames": 8
+    },
+    {
+      "row": 3,
+      "state": "waving",
+      "frames": 4
+    },
+    {
+      "row": 4,
+      "state": "jumping",
+      "frames": 5
+    },
+    {
+      "row": 5,
+      "state": "failed",
+      "frames": 8
+    },
+    {
+      "row": 6,
+      "state": "waiting",
+      "frames": 6
+    },
+    {
+      "row": 7,
+      "state": "running",
+      "frames": 6
+    },
+    {
+      "row": 8,
+      "state": "review",
+      "frames": 6
+    },
+    {
+      "row": 9,
+      "state": "look-000-157.5",
+      "frames": 8
+    },
+    {
+      "row": 10,
+      "state": "look-180-337.5",
+      "frames": 8
+    }
+  ],
+  "look_angles_clockwise_from_up": [
+    0.0,
+    22.5,
+    45.0,
+    67.5,
+    90.0,
+    112.5,
+    135.0,
+    157.5,
+    180.0,
+    202.5,
+    225.0,
+    247.5,
+    270.0,
+    292.5,
+    315.0,
+    337.5
+  ],
+  "sha256": "f17ad59616bb7de703f47c24fdc1322ac7dc7636214b1973ace760ffcf6af658",
+  "description": "BWIKI游戏SD造型与蓝白演出服的轻像素风改编；所有动画保留蓝色吉他。",
+  "reference_url": "https://wiki.biligame.com/bangdream/花园多惠-舞台"
+}

@@ -1,0 +1,119 @@
+{
+  "reviewer": "parent visual review of final encoded atlas at native scale",
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin lifted, neck exposed, eye surfaces and irises aimed above the neutral eye line; face remains frontal."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Face plane and nose move viewer-right while raised chin and upward irises preserve upper quadrant; similar to 045 and yaw is relatively strong."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Nose projects right, far eye foreshortens, raised chin and upward irises aim upper-right; close to previous pose without quadrant reversal."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Right cheek profile increases and nose points right; chin remains raised and eyes aim slightly above horizontal."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Nose and mouth project to screen-right, ear remains behind face, visible iris aims right at near-horizontal level."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Right-facing profile retained with slightly lowered chin and eye line relative to 090; downward cue is subtle."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Crown and forehead area increase as head pitches downward; nose and iris still project right, toward guitar-neck side."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Strong down pitch exposes crown, lowered eyelids aim at guitar; remaining right yaw brings it toward frontal-down anchor."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Frontal face compressed under large visible crown, lowered eyelids and chin aim straight toward guitar; no sideways profile."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Head pitches down with large crown area; face shifts left and viewer-right ear becomes visible. Similar to next pose."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Lowered eye line and chin retain downward pitch; left cheek profile and nose/iris bias point screen-left. Small step from 202.5."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Nose projects left, right ear stays behind face; chin remains lower and eyelids look below horizontal."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Face profile clearly points screen-left, nose and iris are left of head center, chin near horizontal; opposite of 090."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Left profile retained while chin rises and irises aim above horizontal; visible neck increases from 270."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Raised chin exposes neck and upward eye surfaces, nose still projects left; head eases toward front."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Face becomes near-frontal with small remaining left nose/iris bias; lifted chin and high eye aim preserve upward direction and flow into 000."
+    }
+  ],
+  "continuity_review": "112.5 to 135 has a measured local difference outlier. Native sheet shows stronger head pitch, with unchanged feet and attached guitar, no registration snap. Near-neighbor similar poses accepted as subtle intermediate motion. Full loop retains correct quadrants.",
+  "blind_review_followup": "All three isolated reviewers agreed on four cardinals; 112.5 vertical axis was ambiguous alone. Labeled native loop review retains warning: nose/chin and eye line lower relative to 090, then continue down to 135; right orientation remains clear, no reversal. Intermediate subtle pitch accepted under skill."
+}
